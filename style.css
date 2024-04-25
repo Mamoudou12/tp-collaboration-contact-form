@@ -1,0 +1,15 @@
+
+   /* Bordered form */
+
+input{
+    width: 15%;
+  padding:  5px 5px;
+  margin: 10px 0;
+  border: 2px solid #2e2342;
+}
+label{
+    margin-left: 20px;
+}
+input{
+    margin-left: 40px;
+}
